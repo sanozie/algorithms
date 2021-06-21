@@ -1,2 +1,9 @@
 # algorithms
-Eploring various algoritm implementations in Javascript
+Exploring various algoritm implementations in Javascript.
+
+## Start the application
+Make sure you have Docker installed on your machine.
+```shell
+npm build
+npm start
+```
