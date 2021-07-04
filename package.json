@@ -5,10 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "docker build . -t sanoz/algorithms",
-    "start": "docker run sanoz/algorithms"
+    "start": "node index.js"
 
   },
+  "type": "module",
   "author": "Samuel Anozie",
   "license": "ISC",
   "dependencies": {
