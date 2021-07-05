@@ -1,11 +1,5 @@
 // Implementing a bfs with a matrix
-
-const matrix = [
-    [1, 2, 3, 4],
-    [5, 6, 7, 8],
-    [9, 10, 11, 12],
-    [13, 14, 15, 16]
-]
+import { matrix } from '../../structures/matrix'
 
 const ROW = matrix.length, COL = matrix[0].length
 const moveRow = [-1, 0, 1, 0], moveCol = [0, 1, 0, -1]

@@ -35,4 +35,4 @@ class Node {
     }
 }
 
-export default { Graph, Node }
+export { Graph, Node }

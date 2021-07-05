@@ -4,9 +4,7 @@
   "description": "Exploring various algorithms implementations in Javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
-
   },
   "type": "module",
   "author": "Samuel Anozie",
